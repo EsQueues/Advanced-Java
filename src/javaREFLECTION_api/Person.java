@@ -1,4 +1,5 @@
-@Author(name ="Sayat",dateOfCreation = 2023)
+package javaREFLECTION_api;
+
 public class Person {
     private int id;
     public String name="default";
